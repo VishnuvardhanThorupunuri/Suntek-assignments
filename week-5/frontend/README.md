@@ -68,7 +68,7 @@ frontend/
 
 ---
 
-## ⚡ Technology Stack
+##  Technology Stack
 
 | Technology | Purpose | Description |
 | :--- | :--- | :--- |
