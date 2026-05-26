@@ -155,7 +155,7 @@ API_SECRET=your_cloudinary_api_secret
 
 ---
 
-## ⚡ Setup & Run Instructions
+##  Setup & Run Instructions
 
 To download dependencies and start the backend service in developer mode:
 
